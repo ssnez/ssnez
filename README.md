@@ -1,10 +1,6 @@
 ## Hi there 👋
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&repeat=false&width=435&lines=Sergei+Nezhevets)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Applied+Math+and+Statistics)](https://git.io/typing-svg)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Computer+Sceince+Minor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&width=435&lines=Sergei+Nezhevets)](https://git.io/typing-svg)
 
 
 <!--
