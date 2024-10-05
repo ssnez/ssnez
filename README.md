@@ -2,12 +2,17 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sergei+Nezhevets;Applied+Math+and+Statistics;Minor+in+Computer+Science)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sergei+Nezhevets)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=BS+in+Applied+Math+and+Statistics)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Minor+Computer+Sceince)](https://git.io/typing-svg)
+
+
 
 
 [![Linkedin](https://i.sstatic.net/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sergei-n//)
 &nbsp;
-[![GitHub](https://i.sstatic.net/tskMh.png) GitHub](https://github.com/)
 
 <!--
 **ssnez/ssnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
