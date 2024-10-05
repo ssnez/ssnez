@@ -10,10 +10,11 @@
 
 
 <p>
-  <a href="https://www.linkedin.com/in/sergei-n/" rel="nofollow noreferrer" style="text-decoration: none;">
+  <a href="https://www.linkedin.com/in/sergei-n/" rel="nofollow noreferrer" style="text-decoration: none; color: inherit;">
     <img src="https://i.sstatic.net/gVE0j.png" alt="LinkedIn"> LinkedIn
   </a> &nbsp; 
 </p>
+
 
 
 
