@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sergei;Nezhevets)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Sergei Nezhevets;)](https://git.io/typing-svg)
 <!--
 **ssnez/ssnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
