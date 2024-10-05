@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&repeat=false&width=640&height=30&lines=Sergei+Nezhevets)](https://git.io/typing-svg)
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&repeat=false&width=640&height=30&lines=Sergei+Nezhevets" alt="Typing SVG"/>
+  </a>
+</p>
+
 
 <!--
 **ssnez/ssnez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
