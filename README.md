@@ -8,8 +8,8 @@
 </p>
 
 Stony Brook Univerity
-BS: Applied Math and Statisitcs
-Minor: Computer Science
+#BS: Applied Math and Statisitcs
+#Minor: Computer Science
 
 
 
