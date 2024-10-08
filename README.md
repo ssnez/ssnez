@@ -7,10 +7,9 @@
   </a>
 </p>
 
-Stony Brook Univerity
-#BS: Applied Math and Statisitcs
-#Minor: Computer Science
-
+## Stony Brook University
+**BS:** Applied Math and Statistics  
+**Minor:** Computer Science
 
 
 
