@@ -8,8 +8,8 @@
 </p>
 
  
-## Data Scientist/Analyst
-Stony Brook University
+## Data Scientist / Analyst
+** Stony Brook University
 **BS:** Applied Math and Statistics  
 **Minor:** Computer Science
 
