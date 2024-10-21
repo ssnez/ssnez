@@ -2,7 +2,7 @@
 
 ## Aspiring Data Scientist
 
-![Stony Brook University](cd191dfd-5a04-4d43-b522-fca2d570d471-2.png)  
+![Stony Brook University](SBU.png)  
 **BS:** Applied Math and Statistics  
 **Minor:** Computer Science
 
