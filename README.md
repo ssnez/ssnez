@@ -1,7 +1,7 @@
 ## Hi there,  👋
 
  
-## Data Scientist / Analyst
+## Aspiring Data Scientist
 
 **Stony Brook University**  
 **BS:** Applied Math and Statistics  
