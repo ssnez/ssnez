@@ -2,10 +2,8 @@
 
 ## Aspiring Data Scientist
 
-**Northeastern University**
-**MS:** Data Analytics and Engineering  
-
-
+**Northeastern University**  
+**MS:** Data Analytics and Engineering 
 
 **Stony Brook University**  
 **BS:** Applied Math and Statistics  
