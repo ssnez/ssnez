@@ -2,7 +2,7 @@
 
 ## Aspiring Data Scientist
 
-## Northeastern University
+**Northeastern University**
 **MS:** Data Analytics and Engineering  
 
 
